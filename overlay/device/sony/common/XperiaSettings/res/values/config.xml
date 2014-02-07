@@ -21,9 +21,9 @@
     <!-- Vibrator Tuning -->
     <bool name="has_vibrator_tuning">true</bool>
     <string name="vibrator_sysfs_file">"/sys/class/timed_output/vibrator/level"</string>
-    <string name="intensity_max_value">31</string>
-    <string name="intensity_warning_threshold">30</string>
-    <string name="intensity_default_value">29</string>
-    <string name="intensity_min_value">19</string>
+    <string name="intensity_max_value">30</string>
+    <string name="intensity_warning_threshold">25</string>
+    <string name="intensity_default_value">22</string>
+    <string name="intensity_min_value">0</string>
 
 </resources>
